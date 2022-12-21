@@ -1,5 +1,11 @@
 # InsuranceManagementJava
 
+
+>>System Design
+
+![image](https://user-images.githubusercontent.com/31111993/208984790-4e8afa57-e111-4332-84d9-d97f707586e1.jpeg)
+
+
 >>Requirements:
 
 To install NetBeans with Java 18, follow these steps
